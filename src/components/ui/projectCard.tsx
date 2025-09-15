@@ -2,7 +2,7 @@
 
 import Image from "next/image"
 import Link from "next/link"
-// eslint-disable-next-line react-hooks/exhaustive-deps
+// eslint-disable-next-line @typescript-eslint/no-explicit-any
 function ProjectCard(props:any) {
   return (
     <div>
