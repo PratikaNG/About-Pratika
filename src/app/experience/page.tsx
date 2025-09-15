@@ -26,8 +26,8 @@ const experiences = [
     company: "Tata Consultancy Services (TCS)",
     date: "Aug 2021 - Dec 2022",
     points: [
-      "Trained in full-stack technologies including JavaScript, SQL, and Django.",
-      "Supported project teams with backend development and database management.",
+      "Monitoring SOA services and resolving incidents faced by customers.",
+      "Monitoring successful functioning of services using tools like Splunk,Postman and Openshift platform.",
     ],
   },
 ];
